@@ -1,0 +1,46 @@
+-----------------------------------------------------------------------
+************************   DONE ***************************************
+-----------------------------------------------------------------------
+
+npm create-react-app project_name
+briefly explain the html index & js index / app architecture
+functional & class components
+exporting & importing / multi export / export default vs arrow function
+// adress the default thing
+shma3naha ysahel -> reusability + dom + jsx (demonstrate using babel)
+
+
+//******Passing data to components
+pass props to functional and consume it 
+try to do the same in class component -> FAIL -> explain this -> successfully consume the props 
+
+
+//****** Setting a state to a component
+define 2 functions differently to demonstrate handeling binding this (clg "btn clicked")
+
+In class components use a constructor (plus "super") to receive "props"!
+
+Do not mutate state directly. Use setState() !! 
+
+
+! / clg	"render function called"
+
+! / you don't have to use the constructor if you're not gonna handle any props
+!/ demonstrate props
+
+!/ demonstrate multiple counters
+!/use map
+
+
+
+*********************************************************
+****BASIC INTRO
+folders structures
+2 types of components (f & c)
+exporting and importing (default)
+***PROPS
+passing props to functional component
+passing props to class component (explain "this")
+****STATE
+setting state and consuming it 
+change the state (do not mutate) // (binding)
